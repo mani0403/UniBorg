@@ -61,7 +61,7 @@ python3 -m kopp
 ## internals
 
 The core features offered by the custom `TelegramClient` live under the
-[`uniborg/`](https://github.com/SpEcHiDe/uniborg/tree/master/uniborg)
+[`uniborg/`](https://github.com/mani0403/uniborg/tree/master/uniborg)
 directory, with some utilities, enhancements, the `_core` plugin, and the `_inline_bot` plugin.
 
 - Only five of the environment variables are mandatory.
